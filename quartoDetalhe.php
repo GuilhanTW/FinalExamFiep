@@ -58,7 +58,7 @@ if(isset($_GET['id'])){
                     </div>
                     
                     <div class="formularioInput formularioInput100 center">
-                        <input type="submit" value="<?php echo $acao;?>">
+                        <input class="button" type="submit" value="<?php echo $acao;?>">
                         
                     </div>
 

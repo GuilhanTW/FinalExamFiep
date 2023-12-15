@@ -42,7 +42,7 @@
                         <input type="text" id="valor" name="valor">
                     </div>
                     <div class="formularioInput formularioInput100 center">
-                        <input type="submit" value="cobrar">
+                        <input class="button" type="submit" value="cobrar">
                         
                     </div>
 

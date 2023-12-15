@@ -37,7 +37,7 @@
                         <input type="text" id="exp" name="exp">
                     </div>
                     <div class="formularioInput formularioInput100 center">
-                        <input type="submit" value="cadastrar">
+                        <input class="button" type="submit" value="cadastrar">
                         
                     </div>
 

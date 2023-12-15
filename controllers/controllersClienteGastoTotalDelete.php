@@ -1,5 +1,5 @@
 <?php
-include 'C:\xampp\htdocs\controleHotel\class\classCrud.php';
+include 'C:\xampp\htdocs\senai\FinalExamFiep\class\classCrud.php';
 include_once '../includes/variaveisClienteGasto.php';
 
 $crud = new classCrud();

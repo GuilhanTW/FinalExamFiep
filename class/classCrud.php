@@ -1,5 +1,5 @@
 <?php
-include 'C:\xampp\htdocs\controleHotel\class\classConexao.php';
+include 'C:\xampp\htdocs\senai\FinalExamFiep\class\classConexao.php';
 
 class classCrud extends classConexao {
     private $crud;
